@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="id" type="text" default="0" label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID"
+            readonly="true" class="readonly"
+            description="JGLOBAL_FIELD_ID_DESC" /> 
+
+       <field name="title" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_TITLE"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_TITLE" 
+        
+        
+        
+        filter="safehtml" /> 
+
+		<field name="doctype" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_DOCTYPE"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_DOCTYPE" 
+        
+        
+        
+        filter="safehtml" />
+		
+
+       <field name="catid" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_CATID"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_CATID" 
+        
+        
+        
+        filter="safehtml" />
+		
+
+       <field name="updated" type="hidden" filter="safehtml" /> 
+	   
+
+       <field name="id1" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID1"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID1" 
+        
+        
+        
+        filter="safehtml" />
+
+       <field name="id2" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID2"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID2" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id3" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID3"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID3" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id4" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID4"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID4" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id5" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID5"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID5" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id6" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID6"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID6" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id7" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID7"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID7" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id8" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID8"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID8" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id9" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID9"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID9" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id10" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID10"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID10" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id11" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID11"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID11" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id12" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID12"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID12" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id13" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID13"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID13" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id14" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID14"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID14" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id15" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID15"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID15" 
+        
+        
+        
+        filter="safehtml" />
+		
+		<field name="id16" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID16"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID16" 
+        
+        
+        
+        filter="safehtml" />
+
+	<field name="id17" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDOGO_FORM_LBL_FEATUREDOGO_ID17"
+            description="COM_FEATUREDOGO_FORM_DESC_FEATUREDOGO_ID17" 
+        
+        
+        
+        filter="safehtml" />
+
+	</fieldset>
+
+</form>

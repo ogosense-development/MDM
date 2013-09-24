@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <layout title="Featuredchannel">
+        <message>
+			<![CDATA[Featured_channel]]>
+        </message>
+    </layout>
+	<fields name="params">
+		<fieldset name="basic" label="Options">
+			<field name="page" type="text" size="3" 
+				default="" label="Page ID:" 
+				description="Enter ID of the page to be shown" />
+			<field name="menuid" type="text" size="3"
+				default="" label="Menu ID:"
+				description="Enter id of the menu in which component should search for category landing (main) page" />
+		</fieldset>
+  </fields>
+</metadata>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>com_gossip</name>
+	<!-- The following elements are optional and free of formatting conttraints -->
+	<creationDate>2013-08-14</creationDate>
+	<author>Alex</author>
+	<authorEmail>abjelosevic@ogosense.com</authorEmail>
+	<authorUrl>http://www.example.org</authorUrl>
+	<copyright>Copyright Info</copyright>
+	<license>License Info</license>
+	<!--  The version string is recorded in the components table -->
+	<version>3.01</version>
+	<!-- The description is optional and defaults to the name -->
+	<description>Gossip</description>
+
+	<!-- Site Main File Copy Section -->
+	<!-- Note the folder attribute: This attribute describes the folder
+  	   to copy FROM in the package to install therefore files copied
+    	 in this section are copied from /site/ in the package -->
+	<files folder="site">
+		<filename>controller.php</filename>
+		<filename>gossip.php</filename>
+		<filename>index.html</filename>
+		<folder>images</folder>
+		<folder>meta_ext</folder>
+		<folder>models</folder>
+		<folder>sef_ext</folder>
+		<folder>views</folder>
+	</files>
+
+	<administration>
+	</administration>
+</extension>

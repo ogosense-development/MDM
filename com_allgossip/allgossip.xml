@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>AllGossip</name>
+	<creationDate>2013-12-08</creationDate>
+	<author>Alex</author>
+	<authorEmail>abjelosevic@ogosense.com</authorEmail>
+	<authorUrl>http://www.ogosense.com</authorUrl>
+	<copyright>Copyright Info</copyright>
+	<license>License Info</license>
+	<!--  The version string is recorded in the components table -->
+	<version>3.01</version>
+	<!-- The description is optional and defaults to the name -->
+	<description>This component gets all articles from "The Gossip Wire" category and displays them as a list with pagination.</description>
+
+	<files folder="site">
+		<filename>controller.php</filename>
+		<filename>allgossip.php</filename>
+		<filename>index.html</filename>
+		<filename>the-gossip-wire.jpg</filename>
+		<folder>models</folder>
+		<folder>views</folder>
+	</files>
+
+	<administration>
+		<menu link="option=com_allgossip">All Gossip</menu>
+	</administration>
+</extension>

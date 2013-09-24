@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="id" type="text" default="0" label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_ID"
+            readonly="true" class="readonly"
+            description="JGLOBAL_FIELD_ID_DESC" /> 
+
+       <field name="title" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_TITLE"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_TITLE" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="doctype" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_DOCTYPE"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_DOCTYPE" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id1" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_ID1"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_ID1" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id2" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_ID2"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_ID2" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id3" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_ID3"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_ID3" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="id4" type="text" size="40" class="inputbox"
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_ID4"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_ID4" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="html1" type="editor" buttons="true"
+        class="inputbox"
+        filter="safehtml"
+        
+        
+        
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_HTML1"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_HTML1"  /> 
+
+       <field name="html2" type="editor" buttons="true"
+        class="inputbox"
+        filter="safehtml"
+        
+        
+        
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_HTML2"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_HTML2"  /> 
+
+       <field name="html3" type="editor" buttons="true"
+        class="inputbox"
+        filter="safehtml"
+        
+        
+        
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_HTML3"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_HTML3"  /> 
+
+       <field name="html4" type="editor" buttons="true"
+        class="inputbox"
+        filter="safehtml"
+        
+        
+        
+        
+            label="COM_FEATUREDCH_FORM_LBL_FEATUREDCH_HTML4"
+            description="COM_FEATUREDCH_FORM_DESC_FEATUREDCH_HTML4"  />
+
+	</fieldset>
+
+</form>

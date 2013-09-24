@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+    <name>com_featuredch</name>
+    <creationDate>2013-08-22</creationDate>
+    <copyright>OGOSense</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <author>Aco</author>
+    <authorEmail>aaleksic@ogosense.com</authorEmail>
+    <authorUrl>www.ogosense.com</authorUrl>
+    <version>1.0.0</version>
+    <description>Featured Channel</description>
+
+    <files folder="site">
+        <filename>index.html</filename>
+        <filename>featuredch.php</filename>
+        <filename>controller.php</filename>
+        <folder>views</folder>
+        <folder>models</folder>
+        <folder>meta_ext</folder>
+        <folder>sef_ext</folder>
+    </files>
+    <administration>
+        <menu img="components/com_featuredch/assets/images/s_com_featuredch.png" >COM_FEATUREDCH</menu>
+
+        <files folder="administrator">
+            <filename>access.xml</filename>
+            <filename>config.xml</filename>
+            <filename>controller.php</filename>
+            <filename>index.html</filename>
+            <filename>featuredch.php</filename>
+            <folder>controllers</folder>
+            <folder>assets</folder>
+            <folder>helpers</folder>
+            <folder>models</folder>
+            <folder>tables</folder>
+            <folder>views</folder>
+        </files>
+        <languages folder="administrator">
+            
+			<language tag="en-GB">language/en-GB.com_featuredch.ini</language>
+			<language tag="en-GB">language/en-GB.com_featuredch.sys.ini</language>
+        </languages>
+    </administration>
+</extension>

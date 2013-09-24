@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>com_article</name>
+	<creationDate>2013</creationDate>
+	<author>Alex</author>
+	<authorEmail>john.doe@example.org</authorEmail>
+	<authorUrl>http://www.example.org</authorUrl>
+	<copyright>Copyright Info</copyright>
+	<license>License Info</license>
+	<version>3.01</version>
+	<description>Article component</description>
+
+	<files folder="site">
+		<filename>controller.php</filename>
+		<filename>article.php</filename>
+		<filename>index.html</filename>
+        <filename>router.php</filename>
+		<folder>helpers</folder>
+		<folder>images</folder>
+		<folder>meta_ext</folder>
+		<folder>models</folder>
+		<folder>sef_ext</folder>
+		<folder>views</folder>
+	</files>
+	
+	<positions>
+	<position>article-left</position> 
+	</positions>
+
+	<administration>
+	</administration>
+</extension>
